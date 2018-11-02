@@ -1,0 +1,5 @@
+@import "common.scss";
+@import "_mixin.scss";
+#root {
+    @include num(100%, 100%);
+}
